@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\bin\Debug\netstandard2.0\Contact_List.deps.json
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\bin\Debug\netstandard2.0\Contact_List.dll
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\bin\Debug\netstandard2.0\ref\Contact_List.dll
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\bin\Debug\netstandard2.0\Contact_List.pdb
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\Contact_List.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\Contact_List.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\Contact_List.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\Contact_List.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\Contact_List.dll
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\ref\Contact_List.dll
+C:\Users\USUARIO\source\repos\Contact_List\Contact_List\Contact_List\obj\Debug\netstandard2.0\Contact_List.pdb
